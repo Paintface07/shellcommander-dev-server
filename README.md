@@ -1,7 +1,7 @@
 shellcommander-dev-server
 =========================
 
-The development/testing environment for shellcommander.
+The development/testing environment for shellcommander, and open-source linux command line learning/practice application.
 
 To get started:
   - git clone [clone url]
@@ -18,6 +18,9 @@ Fully Implemented commands:
   - none
 
 Partially implemented commands:
+  - cd
+  - ls
+  - mkdir
 
 Planned commands:
   - ?
