@@ -18,9 +18,9 @@ Fully Implemented commands:
   - none
 
 Partially implemented commands:
-  - cd
-  - ls
-  - mkdir
+  - cd (no help, switches)
+  - ls (no help, switches)
+  - mkdir (no help, switches)
 
 Planned commands:
   - ?
