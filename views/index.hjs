@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ShellCommander</title>
+    <script src="/lib/jquery/jquery-1.11.0.min.js"></script>
+	<script src="/lib/jquery/jquery-migrate-1.2.1.min.js"></script>
+	<link rel="stylesheet" href="/css/jquery/jqueryui-1.10.4.css" />
+	<script src="/lib/jquery/jqueryui-1.10.4.min.js"></script>
+	<!-- <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet"> -->
+	<!-- <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script> -->
+	<script src="/lib/terminal/jquery.terminal-0.8.7.js"></script>
+	<link rel='stylesheet' href="/css/terminal/jquery.terminal.css" />
+	<script src="/src/bash.js"></script>
+  </head>
+  <body style="background-color: black; ">
+	<div id="contentWrapper" style="width: 800px; height: 1024px;"><!-- wrapper to inject the terminal into --></div>
+  </body>
+</html>
