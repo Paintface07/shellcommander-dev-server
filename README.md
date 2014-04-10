@@ -1,7 +1,7 @@
 shellcommander-dev-server
 =========================
 
-The development/testing environment for shellcommander, and open-source, extensible, linux command line learning/practice application.
+The development/testing environment for shellcommander, an open-source, extensible, linux command line learning/practice application implemented in pure javascript.
 
 To get started:
   - git clone [clone url]
