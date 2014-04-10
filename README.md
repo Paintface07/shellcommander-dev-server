@@ -11,3 +11,13 @@ To get started:
   - in a web browser: localhost:3000
 
 Thanks for visiting!
+
+
+
+Fully Implemented commands:
+  - none
+
+Partially implemented commands:
+
+Planned commands:
+  - ?
